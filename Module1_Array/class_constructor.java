@@ -10,7 +10,7 @@ class Student{
 class Main {
     public static void main(String[] args) {
         System.out.println("Try programiz.pro");
-        Student a=new Student("prasad",20);
+        Student a=new Student("pooja",20);
             System.out.println(a);
                 System.out.println(a.name);
                     System.out.println(a.age);
